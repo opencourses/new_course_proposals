@@ -1,2 +1,4 @@
-# new_subject
-🆕 This repository will be used to discuss in the issues new subjects that can be added to the project
+# Propose a new course
+
+The Open Courses projects aims to scale and collect material from different subjects and Universities all over the world. If you want to propose a new course [open an issue] following this template.
+
