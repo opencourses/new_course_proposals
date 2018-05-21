@@ -10,6 +10,9 @@ A clear and concise description of what the course is about.
 **Describe the kind of content you'd like to include.**
 A clear and concise description of the type of content you would like to include (with some examples if possible).
 
+**Is the course compliant with the project [manifesto](https://github.com/opencourses/manifesto)?**
+Is the course usable in terms of a learn-by-doing course, mainly composed by exercises. Please, describe.
+
 **Will you be a contributor for this course?**
 Describe the kind of contribution you can give to this course or if it is necessary to find other contributors.
 
